@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+     This plugin provides the <a href="https://github.com/apache/commons-math">Commons Math3</a> APIs (v${revision}) for other plugins.
+</div>
